@@ -1,0 +1,2 @@
+# bostonmag-demo
+Educational
